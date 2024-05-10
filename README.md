@@ -53,5 +53,6 @@ Kullanıcı deneyimini iyileştirmekte özgürsünüz.\
 Ekstra olarak tamamlanmış sepetler sütunu oluşturup içerisini dilediğiniz gibi tamamlayabilirsiniz.\
 Siparişlerin içeriğini görüntüleyebilmek için bir Sipariş Detayı Modalı oluşturup içeriğini dilediğiniz gibi oluşturabilirsiniz.\
 Mikro interaksiyonlara önem veriyoruz.\
-Zamanınıza hepsinden daha çok değer veriyoruz. Bu task gereğinden fazla zamanınızı alıyorsa yapabildiğiniz kadarını yapıp bize iletebilirsiniz.\
+**Zamanınıza hepsinden daha çok değer veriyoruz.** Bu task gereğinden fazla zamanınızı alıyorsa yapabildiğiniz kadarını yapıp bize iletebilirsiniz.\
+Bu task size iletildikten sonra 1 hafta içerisinde tamamlayıp göndermenizi bekleriz yine de. Daha kısa bir süre için acele etmenize gerek yok, zaman sizin.  \
 Yazdığınız kodu çektiğimizde nasıl çalıştırmamız gerektiğine dair kısa bir README yazabilirsiniz.
