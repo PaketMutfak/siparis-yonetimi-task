@@ -55,4 +55,5 @@ Siparişlerin içeriğini görüntüleyebilmek için bir Sipariş Detayı Modal�
 Mikro interaksiyonlara önem veriyoruz.\
 **Zamanınıza hepsinden daha çok değer veriyoruz.** Bu task gereğinden fazla zamanınızı alıyorsa yapabildiğiniz kadarını yapıp bize iletebilirsiniz.\
 Bu task size iletildikten sonra 1 hafta içerisinde tamamlayıp göndermenizi bekleriz yine de. Daha kısa bir süre için acele etmenize gerek yok, zaman sizin.  \
-Yazdığınız kodu çektiğimizde nasıl çalıştırmamız gerektiğine dair kısa bir README yazabilirsiniz.
+Yazdığınız kodu çektiğimizde nasıl çalıştırmamız gerektiğine dair kısa bir README yazabilirsiniz.\
+README üzerinde ya da screenshots üzerinde yaptığınız uygulamanın fotoğraflarını ekleyebilirsiniz.
