@@ -3,7 +3,7 @@
 ![You're finally awake](yourefinallyawake.png)
 
 ## Arayüz Tasarımı
-![UI Blueprint](ui-blueprint.png)
+![UI Blueprint](mockup.png)
 > Bu mockup arayüzün genel yapısını ve bileşenlerin yerleşimini göstermektedir. 
 > Tasarımı birebir kopyalamak zorunda değilsin, bu sadece referans olması için! 
 > Daha iyi bir fikrin varsa onu da uygulayabilirsin 🎨
